@@ -1,8 +1,12 @@
 # Crime-in-Vancouver
 ## 
-#### Online dashboard can be found here:
+### This is only a tool which should be taken with a grain of salt. More thorogh studies with data I do not have access to do need to be performed before any real conclusions can be made (for more information see the "Things to Note" section of the read.me)
+#### Online dashboard can be found here (still a work in progress):
 https://public.tableau.com/views/Car-breakinsinVancouver2021-2022/Car-Breakins?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-#### -Shows heatmap of car break-ins in vancouver in the previous 12 months /n
-#### -Black dots are paid city-parking (parking spots owened and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer 
+#### -It shows a heatmap of car break-ins in Vancouver in the previous 12 months
+#### -The black dots are paid city-parking (parking spots owned and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer 
 #
+## Things to Note:
+#### Although this map can be a useful tool, as it tells you where cars have been known to be broken into, it should be taken with a grain of salt. This map only shows the WHERE the cars were broken into, it doesn't show where cars are likely to park or how frequently cars park there. Cars could be more likely to be broken into in a specific area simply because it is a popular spot to park. I cannot display this as I do not have access to that data. Therefore, I cannot draw any definite conclusions from the data.
+#### Another main issue is that I do not have access to data that describes no-parking or temporary no-parking zones. This creates two problems. First for the issue of permanent no-parking zones, in some areas in Vancouver, you can only park there if you are a resident of that street. However, some residents may also have garages on their property and choose to park there. This would decrease the overall cars being parked on the street and skew the data, as that street would appear the be a safer place to park, even though it is just as safe as everywhere else. The second problem concerns the temporary no-parking zones. Some streets are designated no-parking zones during rush hour traffic. So, on average they are less likely to be parked on by design. Another problem is that certain streets could have been temporary no-parking zones for several months due to construction. This could skew not only the regular car break-in data, but also the seasonal data. Although the city may have data which describes these permanent and temporary no-parking restrictions, it is not open-access and therefore I have no way of accessing it. 
+#### Finally, although no definite conclusions can be drawn from the data, this map does provide some insight on the happenings of Vancouver, and it could be used to rationalize further study and research into this topic. I hope you found it useful and interesting.
