@@ -2,7 +2,7 @@
 ## 
 #### This is only a tool which should be taken with a grain of salt. More thorogh studies with data I do not have access to, need to be performed before any real conclusions can be made (for more information see the "Things to Note" section of the read.me)
 #### Online dashboard can be found here (still a work in progress):
-https://public.tableau.com/views/Car-breakinsinVancouver2021-2022/Car-Breakins?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/lazar.adamovic/viz/Car-breakinsinVancouver2021-2022/Sheet1?publish=yes
 #### -It shows a heatmap of car break-ins in Vancouver in the previous 12 months
 #### -The black dots are paid city-parking (parking spots owned and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer 
 #
