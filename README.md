@@ -1,10 +1,10 @@
 # Crime-in-Vancouver
 ## 
 #### I created this tool in order to empower people to make informed decisions when parking in Vancouver. In order to draw any real conclusions more studies with data I do not have need to be performed. For more information see the "Things to Note" section of the read.me
-#### 
-[Online heatmap can be found here](https://lazar.adamovic.org/vancouver-car-break-ins-heatmap/)
+#### [Online heatmap can be found here](https://lazar.adamovic.org/vancouver-car-break-ins-heatmap/)
 #### -It shows a heatmap of car break-ins in Vancouver in the previous 12 months
-#### -The black dots are paid city-parking (parking spots owned and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer 
+#### -The black dots are paid city-parking (parking spots owned and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer
+#### Database where the care thefts data was acquired from can be found [here](https://geodash.vpd.ca/opendata/)
 #
 ## Things to Note:
 #### This map can be a useful tool which tells the user where cars have been broken into, however, the data should be taken with a grain of salt. This map only shows the where the cars _where_ they were broken into, it doesn't show you where cars _were not_ broken into. I will go into detail about the not obvious  circumstances which may skew the data. 
