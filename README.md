@@ -2,7 +2,7 @@
 ## 
 #### I created this tool in order to empower people to make informed decisions when parking in Vancouver. In order to draw any real conclusions more studies with data I do not have need to be performed. For more information see the "Things to Note" section of the read.me
 #### 
-[Online dashboard can be found here](https://lazar.adamovic.org/vancouver-car-break-ins-heatmap/)
+[Online heatmap can be found here](https://lazar.adamovic.org/vancouver-car-break-ins-heatmap/)
 #### -It shows a heatmap of car break-ins in Vancouver in the previous 12 months
 #### -The black dots are paid city-parking (parking spots owned and operated by the city). You can turn this off by going to the upper left corner of the dashboard and de-selecting the layer 
 #
